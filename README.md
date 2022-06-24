@@ -1,1 +1,1 @@
-[# jwc](https://kong1912.github.io/)
+https://kong1912.github.io/
